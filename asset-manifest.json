@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.64ec54fa.chunk.css",
-    "main.js": "/static/js/main.298a76ee.chunk.js",
-    "main.js.map": "/static/js/main.298a76ee.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.e8ac4346.js",
-    "runtime~main.js.map": "/static/js/runtime~main.e8ac4346.js.map",
-    "static/css/2.4e243fc0.chunk.css": "/static/css/2.4e243fc0.chunk.css",
-    "static/js/2.14dcd9f0.chunk.js": "/static/js/2.14dcd9f0.chunk.js",
-    "static/js/2.14dcd9f0.chunk.js.map": "/static/js/2.14dcd9f0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a15edb59dca15da4bcc1bb3b996b7c4a.js": "/precache-manifest.a15edb59dca15da4bcc1bb3b996b7c4a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.4e243fc0.chunk.css.map": "/static/css/2.4e243fc0.chunk.css.map",
-    "static/css/main.64ec54fa.chunk.css.map": "/static/css/main.64ec54fa.chunk.css.map",
-    "static/media/index.css": "/static/media/logo.1fd6a169.svg",
-    "static/media/open-iconic-bootstrap.css": "/static/media/open-iconic.eca2c267.svg"
+    "main.css": "/yourgreattheme/static/css/main.e2388299.chunk.css",
+    "main.js": "/yourgreattheme/static/js/main.b23fbc58.chunk.js",
+    "main.js.map": "/yourgreattheme/static/js/main.b23fbc58.chunk.js.map",
+    "runtime~main.js": "/yourgreattheme/static/js/runtime~main.378fbf68.js",
+    "runtime~main.js.map": "/yourgreattheme/static/js/runtime~main.378fbf68.js.map",
+    "static/css/2.82e78a52.chunk.css": "/yourgreattheme/static/css/2.82e78a52.chunk.css",
+    "static/js/2.fdbf26db.chunk.js": "/yourgreattheme/static/js/2.fdbf26db.chunk.js",
+    "static/js/2.fdbf26db.chunk.js.map": "/yourgreattheme/static/js/2.fdbf26db.chunk.js.map",
+    "index.html": "/yourgreattheme/index.html",
+    "precache-manifest.83eee13bd4e3ef531fa481846717f9ff.js": "/yourgreattheme/precache-manifest.83eee13bd4e3ef531fa481846717f9ff.js",
+    "service-worker.js": "/yourgreattheme/service-worker.js",
+    "static/css/2.82e78a52.chunk.css.map": "/yourgreattheme/static/css/2.82e78a52.chunk.css.map",
+    "static/css/main.e2388299.chunk.css.map": "/yourgreattheme/static/css/main.e2388299.chunk.css.map",
+    "static/media/index.css": "/yourgreattheme/static/media/logo.1fd6a169.svg",
+    "static/media/open-iconic-bootstrap.css": "/yourgreattheme/static/media/open-iconic.eca2c267.svg"
   }
 }
