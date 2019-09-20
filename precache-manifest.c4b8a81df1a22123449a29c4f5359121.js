@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7be24a99cc7e92ac51171ad53f5e1812",
+    "revision": "ce063cda5a56e3bad4b335a55bb1015b",
     "url": "/yourgreattheme/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yourgreattheme/static/css/2.82e78a52.chunk.css"
   },
   {
-    "revision": "dc99c6552a7b00decb96",
-    "url": "/yourgreattheme/static/css/main.e2388299.chunk.css"
+    "revision": "ed485fdf2da9dd0d7cbc",
+    "url": "/yourgreattheme/static/css/main.9c903bf1.chunk.css"
   },
   {
     "revision": "44ab07faa115a5cc7b46",
     "url": "/yourgreattheme/static/js/2.622e1cc4.chunk.js"
   },
   {
-    "revision": "dc99c6552a7b00decb96",
-    "url": "/yourgreattheme/static/js/main.dfdfea7e.chunk.js"
+    "revision": "ed485fdf2da9dd0d7cbc",
+    "url": "/yourgreattheme/static/js/main.b659a831.chunk.js"
   },
   {
     "revision": "5cfe4ed16958194465c8",
