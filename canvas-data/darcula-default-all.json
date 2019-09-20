@@ -125,10 +125,6 @@
 
     "controlText": "#BBBBBB",
 
-    "Counter": {
-      "foreground": "#3E434D"
-    },
-
     "darcula": {
       "background": "#3C3F41",
       "caretForeground": "#BBBBBB",
@@ -321,6 +317,7 @@
 
     "Notification": {
       "background": "#4E5052",
+      "borderColor": "#565A5C",
       "foreground": "#BFBFBF"
     },
 
@@ -418,9 +415,6 @@
       "background": "#3F4244",
       "foreground": "#BBBBBB",
       "Mac": {
-        "thumbBorderColor": "#262626",
-        "thumbColor": "#808080",
-        "trackColor": "#808080",
         "Transparent": {
           "hoverThumbBorderColor": "#262626",
           "hoverThumbColor": "#808080",
@@ -465,10 +459,6 @@
       }
     },
 
-    "SearchField": {
-      "errorBackground": "#743A3A"
-    },
-
     "SearchMatch": {
       "endBackground": "#FFD042",
       "endColor": "#FFD042",
@@ -481,10 +471,6 @@
       "highlight": "#FFFFFF",
       "separatorColor": "#515151",
       "shadow": "#000000"
-    },
-
-    "SidePanel": {
-      "background": "#3E434C"
     },
 
     "Slider": {
@@ -676,7 +662,6 @@
       "foreground": "#BBBBBB",
       "hash": "#505355",
       "line": "#FFFFFF",
-      "modifiedItemForeground": "#589DF6",
       "selectionBackground": "#2F65CA",
       "selectionBorderColor": "#0749D9",
       "selectionForeground": "#FFFFFF",
@@ -696,16 +681,6 @@
     "Viewport": {
       "background": "#3C3F41",
       "foreground": "#BBBBBB"
-    },
-
-    "WelcomeScreen": {
-      "background": "#45474A",
-      "Projects": {
-        "background": "#393939",
-        "selectionBackground": "#4B6EAF",
-        "selectionInactiveBackground": "#454545"
-      },
-      "separatorColor": "#484B4E"
     },
 
     "window": "#3C3F41",
