@@ -1,0 +1,81 @@
+{
+  "name": "Your great theme",
+  "dark": true,
+  "author": "Your great theme portal",
+
+  "editorScheme": "/themes/highContrastScheme.xml",
+
+  "ui": {
+
+    "Borders": {
+      "color": "#323232",
+      "ContrastBorderColor": "#323232"
+    },
+
+    "Button": {
+      "endBorderColor": "#5E6060",
+      "foreground": "#BBBBBB",
+      "startBorderColor": "#5E6060"
+    },
+
+    "ComboBox": {
+      "ArrowButton": {
+        "iconColor": "#9A9DA1"
+      }
+    },
+
+    "ComboBoxButton": {
+      "background": "#3C3F41"
+    },
+
+    "Component": {
+      "infoForeground": "#787878"
+    },
+
+    "EditorTabs": {
+      "background": "#000000",
+      "borderColor": "#000000",
+      "inactiveUnderlineColor": "#000000",
+      "underlinedTabBackground": "#4E5254",
+      "underlinedTabForeground": "#000000"
+    },
+
+    "Label": {
+      "foreground": "#BBBBBB"
+    },
+
+    "Panel": {
+      "background": "#3C3F41",
+      "foreground": "#BBBBBB"
+    },
+
+    "Separator": {
+      "separatorColor": "#515151"
+    },
+
+    "StatusBar": {
+      "borderColor": "#464646"
+    },
+
+    "ToggleButton": {
+      "foreground": "#BBBBBB"
+    },
+
+    "ToolWindow": {
+      "Button": {
+        "selectedBackground": "#0F0F0F",
+        "selectedForeground": "#FFFFFF"
+      },
+      "Header": {
+        "background": "#3B4754",
+        "borderColor": "#000000"
+      }
+    },
+
+    "Tree": {
+      "background": "#3C3F41",
+      "foreground": "#BBBBBB",
+      "selectionInactiveBackground": "#0D293E"
+    }
+  }
+}
